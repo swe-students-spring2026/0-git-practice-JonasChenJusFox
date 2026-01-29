@@ -8,3 +8,5 @@ This article clearly explains that software engineering is not just about writin
 
 I also liked how it distinguishes software engineering from computer science by focusing on real-world applications and engineering practices. This helped me better understand what to expect from a software engineering course and how it connects to building reliable and scalable systems.
 
+## Takeaway
+It helped me better understand how software engineering emphasizes reliability, collaboration, and long-term maintenance rather than just writing code.
