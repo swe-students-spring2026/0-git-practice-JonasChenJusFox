@@ -10,3 +10,13 @@ I also liked how it distinguishes software engineering from computer science by 
 
 ## Takeaway
 It helped me better understand how software engineering emphasizes reliability, collaboration, and long-term maintenance rather than just writing code.
+
+---
+
+## 💬 Additional Comment
+
+**Comment by Yecheng Yue**
+
+After reading *What Is Software Engineering?*, I found it interesting how strongly the article emphasizes that software engineering is a long-term engineering discipline rather than just writing code. The focus on design and collaboration helped me better understand why software projects require structured processes and teamwork to be reliable and scalable.
+
+— *Yecheng Yue*
