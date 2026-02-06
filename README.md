@@ -6,10 +6,13 @@
 ## Reasons:
 This article clearly explains that software engineering is not just about writing code, but about designing, testing, maintaining, and improving software systems over time. I found it helpful because it emphasizes problem-solving, teamwork, and long-term thinking rather than just programming skills.
 
-I also liked how it distinguishes software engineering from computer science by focusing on real-world applications and engineering practices. This helped me better understand what to expect from a software engineering course and how it connects to building reliable and scalable systems.
+Also, I liked how it distinguishes software engineering from computer science by focusing on real-world applications and engineering practices. This helped me better understand what to expect from a software engineering course and how it connects to building reliable and scalable systems.
 
 ## Takeaway
 It helped me better understand how software engineering emphasizes reliability, collaboration, and long-term maintenance rather than just writing code.
+
+Minor update to confirm git configuration.
+
 
 ---
 
